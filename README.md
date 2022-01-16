@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 👋 Hi, I’m KennBot
+- 👀 I’m interested in Machine Vision and Photography
+- 🌱 I’m currently experimenting with AI.
+- 💞️ I’m looking to collaborate on small AI Projects involving Video or Images.
+- ⚡ Fun fact: My original Master's project in the 1990's was a self-driving car 
+
 
 <!--
 **KennBot/KennBot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
